@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575716803 source:c:\users\koble andrea melinda\documents\grafok\dijkstra\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<limits>
+

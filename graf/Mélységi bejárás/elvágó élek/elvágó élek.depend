@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566057109 source:c:\users\user  a\desktop\graf\mélységi bejárás\elvágó élek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

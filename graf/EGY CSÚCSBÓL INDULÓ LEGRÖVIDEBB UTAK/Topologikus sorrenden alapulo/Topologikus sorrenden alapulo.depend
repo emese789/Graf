@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566578432 source:c:\users\user  a\desktop\graf\topologikus sorrenden alapulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

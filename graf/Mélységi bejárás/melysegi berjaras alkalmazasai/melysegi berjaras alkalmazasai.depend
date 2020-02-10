@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566038459 source:c:\users\user  a\desktop\graf\melysegi berjaras alkalmazasai\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

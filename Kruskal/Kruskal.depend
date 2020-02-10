@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574518711 source:c:\users\koble andrea melinda\documents\grafok\kruskal\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+

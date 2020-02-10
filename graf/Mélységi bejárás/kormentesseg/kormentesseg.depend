@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565968317 source:c:\users\user  a\desktop\graf\kormentesseg\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+

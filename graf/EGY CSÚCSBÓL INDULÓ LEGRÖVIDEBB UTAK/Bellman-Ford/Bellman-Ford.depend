@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566932239 source:c:\users\user  a\desktop\graf\bellman-ford\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566058785 source:c:\users\user  a\desktop\graf\mélységi bejárás\elvago pontok\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
